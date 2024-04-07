@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> 个人技术博客说明
+# 个人技术博客说明
 
 大家好，欢迎来到我的技术博客。在这里，我将分享我在Python和Angular两大技术领域的学习和实践经验。
 
