@@ -5,8 +5,6 @@ author: iasukas
 date: 2024-04-07 10:20:15 -0000
 categories: [Python]
 tags: [Python, SQLAlchemy, ORM, DATABASE, SQL]
-math: true
-mermaid: true
 ---
 
 # 测试
